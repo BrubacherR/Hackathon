@@ -1,6 +1,6 @@
 # CosmicGist
 
-**CosmicGist** is a web application designed to summarize webpage content. Users can input a URL, and the application will generate a concise summary of the page using advanced text summarization techniques.
+**CosmicGist** is a web application designed to summarize webpage content. Users can input a URL and the application will generate a concise summary of the page using advanced text summarization techniques.
 
 ## Features
 
